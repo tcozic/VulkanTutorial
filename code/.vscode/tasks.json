@@ -1,0 +1,50 @@
+{
+  "tasks": [
+    {
+      "label": "cmake",
+      "command": "cmake",
+      "args": [
+        "-DCMAKE_BUILD_TYPE=Debug",
+        "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON",
+        ".."
+      ],
+      "options": {
+        "cwd": "${workspaceRoot}/build"
+      },
+      "problemMatcher": [],
+      "group": "build"
+    },
+    {
+      "label": "make",
+      "type": "shell",
+      "command": "make",
+      "options": {
+        "cwd": "${workspaceRoot}/build"
+      },
+      "dependsOn": [
+        "cmake"
+      ],
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "clean",
+      "type": "shell",
+      "linux": {
+          "command": "rm",
+          "args": [
+              "-rf",
+              "./*"
+          ]
+      },
+      "options": {
+        "cwd": "${workspaceRoot}/build"
+    },
+    "problemMatcher": []
+    },
+  ],
+  "version": "2.0.0"
+}

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/02_validation_layers.dir/02_validation_layers.cpp.o  -o 02_validation_layers  /usr/lib/x86_64-linux-gnu/libvulkan.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 tinyobjloader/libtinyobjloader.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/20_index_buffer.dir/20_index_buffer.cpp.o  -o 20_index_buffer  /usr/lib/x86_64-linux-gnu/libvulkan.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 tinyobjloader/libtinyobjloader.a 

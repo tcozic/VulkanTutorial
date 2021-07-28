@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/18_vertex_buffer.dir/18_vertex_buffer.cpp.o  -o 18_vertex_buffer  /usr/lib/x86_64-linux-gnu/libvulkan.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 tinyobjloader/libtinyobjloader.a 

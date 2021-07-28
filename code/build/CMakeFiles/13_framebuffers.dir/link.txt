@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/13_framebuffers.dir/13_framebuffers.cpp.o  -o 13_framebuffers  /usr/lib/x86_64-linux-gnu/libvulkan.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 tinyobjloader/libtinyobjloader.a 

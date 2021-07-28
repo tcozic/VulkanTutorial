@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/28_mipmapping.dir/28_mipmapping.cpp.o  -o 28_mipmapping  /usr/lib/x86_64-linux-gnu/libvulkan.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 tinyobjloader/libtinyobjloader.a 

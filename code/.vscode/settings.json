@@ -1,0 +1,5 @@
+{
+  "ccls.misc.compilationDatabaseDirectory": "",
+  "ccls.launch.command": "ccls",
+  "ccls.cache.directory": "/home/tc/.ccls-cache"
+}

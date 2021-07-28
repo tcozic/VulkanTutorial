@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/23_texture_image.dir/23_texture_image.cpp.o  -o 23_texture_image  /usr/lib/x86_64-linux-gnu/libvulkan.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 tinyobjloader/libtinyobjloader.a 

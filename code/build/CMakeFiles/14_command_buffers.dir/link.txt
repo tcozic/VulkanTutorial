@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/14_command_buffers.dir/14_command_buffers.cpp.o  -o 14_command_buffers  /usr/lib/x86_64-linux-gnu/libvulkan.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 tinyobjloader/libtinyobjloader.a 

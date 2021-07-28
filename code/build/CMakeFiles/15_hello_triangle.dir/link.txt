@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/15_hello_triangle.dir/15_hello_triangle.cpp.o  -o 15_hello_triangle  /usr/lib/x86_64-linux-gnu/libvulkan.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 tinyobjloader/libtinyobjloader.a 

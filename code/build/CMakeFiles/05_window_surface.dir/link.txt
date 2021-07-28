@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/05_window_surface.dir/05_window_surface.cpp.o  -o 05_window_surface  /usr/lib/x86_64-linux-gnu/libvulkan.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 tinyobjloader/libtinyobjloader.a 

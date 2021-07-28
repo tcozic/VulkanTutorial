@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/24_sampler.dir/24_sampler.cpp.o  -o 24_sampler  /usr/lib/x86_64-linux-gnu/libvulkan.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 tinyobjloader/libtinyobjloader.a 

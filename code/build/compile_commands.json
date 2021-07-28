@@ -1,0 +1,157 @@
+[
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/10_fixed_functions.dir/10_fixed_functions.cpp.o -c /home/tc/workspace/VulkanTutorial/code/10_fixed_functions.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/10_fixed_functions.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/07_image_views.dir/07_image_views.cpp.o -c /home/tc/workspace/VulkanTutorial/code/07_image_views.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/07_image_views.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/01_instance_creation.dir/01_instance_creation.cpp.o -c /home/tc/workspace/VulkanTutorial/code/01_instance_creation.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/01_instance_creation.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/26_depth_buffering.dir/26_depth_buffering.cpp.o -c /home/tc/workspace/VulkanTutorial/code/26_depth_buffering.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/26_depth_buffering.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/12_graphics_pipeline_complete.dir/12_graphics_pipeline_complete.cpp.o -c /home/tc/workspace/VulkanTutorial/code/12_graphics_pipeline_complete.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/12_graphics_pipeline_complete.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/20_index_buffer.dir/20_index_buffer.cpp.o -c /home/tc/workspace/VulkanTutorial/code/20_index_buffer.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/20_index_buffer.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/09_shader_modules.dir/09_shader_modules.cpp.o -c /home/tc/workspace/VulkanTutorial/code/09_shader_modules.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/09_shader_modules.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/05_window_surface.dir/05_window_surface.cpp.o -c /home/tc/workspace/VulkanTutorial/code/05_window_surface.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/05_window_surface.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/29_multisampling.dir/29_multisampling.cpp.o -c /home/tc/workspace/VulkanTutorial/code/29_multisampling.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/29_multisampling.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/06_swap_chain_creation.dir/06_swap_chain_creation.cpp.o -c /home/tc/workspace/VulkanTutorial/code/06_swap_chain_creation.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/06_swap_chain_creation.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/08_graphics_pipeline.dir/08_graphics_pipeline.cpp.o -c /home/tc/workspace/VulkanTutorial/code/08_graphics_pipeline.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/08_graphics_pipeline.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/03_physical_device_selection.dir/03_physical_device_selection.cpp.o -c /home/tc/workspace/VulkanTutorial/code/03_physical_device_selection.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/03_physical_device_selection.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/16_swap_chain_recreation.dir/16_swap_chain_recreation.cpp.o -c /home/tc/workspace/VulkanTutorial/code/16_swap_chain_recreation.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/16_swap_chain_recreation.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/18_vertex_buffer.dir/18_vertex_buffer.cpp.o -c /home/tc/workspace/VulkanTutorial/code/18_vertex_buffer.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/18_vertex_buffer.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/02_validation_layers.dir/02_validation_layers.cpp.o -c /home/tc/workspace/VulkanTutorial/code/02_validation_layers.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/02_validation_layers.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/23_texture_image.dir/23_texture_image.cpp.o -c /home/tc/workspace/VulkanTutorial/code/23_texture_image.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/23_texture_image.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/11_render_passes.dir/11_render_passes.cpp.o -c /home/tc/workspace/VulkanTutorial/code/11_render_passes.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/11_render_passes.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/00_base_code.dir/00_base_code.cpp.o -c /home/tc/workspace/VulkanTutorial/code/00_base_code.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/00_base_code.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/13_framebuffers.dir/13_framebuffers.cpp.o -c /home/tc/workspace/VulkanTutorial/code/13_framebuffers.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/13_framebuffers.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/14_command_buffers.dir/14_command_buffers.cpp.o -c /home/tc/workspace/VulkanTutorial/code/14_command_buffers.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/14_command_buffers.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/22_descriptor_sets.dir/22_descriptor_sets.cpp.o -c /home/tc/workspace/VulkanTutorial/code/22_descriptor_sets.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/22_descriptor_sets.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/15_hello_triangle.dir/15_hello_triangle.cpp.o -c /home/tc/workspace/VulkanTutorial/code/15_hello_triangle.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/15_hello_triangle.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/04_logical_device.dir/04_logical_device.cpp.o -c /home/tc/workspace/VulkanTutorial/code/04_logical_device.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/04_logical_device.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/28_mipmapping.dir/28_mipmapping.cpp.o -c /home/tc/workspace/VulkanTutorial/code/28_mipmapping.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/28_mipmapping.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/17_vertex_input.dir/17_vertex_input.cpp.o -c /home/tc/workspace/VulkanTutorial/code/17_vertex_input.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/17_vertex_input.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/19_staging_buffer.dir/19_staging_buffer.cpp.o -c /home/tc/workspace/VulkanTutorial/code/19_staging_buffer.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/19_staging_buffer.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/21_descriptor_layout.dir/21_descriptor_layout.cpp.o -c /home/tc/workspace/VulkanTutorial/code/21_descriptor_layout.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/21_descriptor_layout.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/24_sampler.dir/24_sampler.cpp.o -c /home/tc/workspace/VulkanTutorial/code/24_sampler.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/24_sampler.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/27_model_loading.dir/27_model_loading.cpp.o -c /home/tc/workspace/VulkanTutorial/code/27_model_loading.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/27_model_loading.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build",
+  "command": "/usr/bin/c++   -I/home/tc/workspace/VulkanTutorial/code/stb/. -I/home/tc/workspace/VulkanTutorial/code/tinyobjloader  -g   -std=c++17 -o CMakeFiles/25_texture_mapping.dir/25_texture_mapping.cpp.o -c /home/tc/workspace/VulkanTutorial/code/25_texture_mapping.cpp",
+  "file": "/home/tc/workspace/VulkanTutorial/code/25_texture_mapping.cpp"
+},
+{
+  "directory": "/home/tc/workspace/VulkanTutorial/code/build/tinyobjloader",
+  "command": "/usr/bin/c++    -g   -std=c++17 -o CMakeFiles/tinyobjloader.dir/tiny_obj_loader.cc.o -c /home/tc/workspace/VulkanTutorial/code/tinyobjloader/tiny_obj_loader.cc",
+  "file": "/home/tc/workspace/VulkanTutorial/code/tinyobjloader/tiny_obj_loader.cc"
+}
+]

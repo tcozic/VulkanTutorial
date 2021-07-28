@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/00_base_code.dir/00_base_code.cpp.o  -o 00_base_code  /usr/lib/x86_64-linux-gnu/libvulkan.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 tinyobjloader/libtinyobjloader.a 

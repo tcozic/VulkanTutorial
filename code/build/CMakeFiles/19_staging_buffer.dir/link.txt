@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/19_staging_buffer.dir/19_staging_buffer.cpp.o  -o 19_staging_buffer  /usr/lib/x86_64-linux-gnu/libvulkan.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 tinyobjloader/libtinyobjloader.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/10_fixed_functions.dir/10_fixed_functions.cpp.o  -o 10_fixed_functions  /usr/lib/x86_64-linux-gnu/libvulkan.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 tinyobjloader/libtinyobjloader.a 

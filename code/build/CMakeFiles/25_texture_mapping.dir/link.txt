@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/25_texture_mapping.dir/25_texture_mapping.cpp.o  -o 25_texture_mapping  /usr/lib/x86_64-linux-gnu/libvulkan.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 tinyobjloader/libtinyobjloader.a 

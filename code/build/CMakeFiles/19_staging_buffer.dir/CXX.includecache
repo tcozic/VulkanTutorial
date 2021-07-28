@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tc/workspace/VulkanTutorial/code/19_staging_buffer.cpp
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+iostream
+-
+fstream
+-
+stdexcept
+-
+algorithm
+-
+vector
+-
+cstring
+-
+cstdlib
+-
+cstdint
+-
+array
+-
+optional
+-
+set
+-
+

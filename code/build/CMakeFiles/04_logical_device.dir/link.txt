@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/04_logical_device.dir/04_logical_device.cpp.o  -o 04_logical_device  /usr/lib/x86_64-linux-gnu/libvulkan.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 tinyobjloader/libtinyobjloader.a 

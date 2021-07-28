@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tc/workspace/VulkanTutorial/code/22_descriptor_sets.cpp
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+iostream
+-
+fstream
+-
+stdexcept
+-
+algorithm
+-
+chrono
+-
+vector
+-
+cstring
+-
+cstdlib
+-
+cstdint
+-
+array
+-
+optional
+-
+set
+-
+

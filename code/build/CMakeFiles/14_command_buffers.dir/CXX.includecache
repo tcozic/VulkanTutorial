@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tc/workspace/VulkanTutorial/code/14_command_buffers.cpp
+GLFW/glfw3.h
+-
+iostream
+-
+fstream
+-
+stdexcept
+-
+algorithm
+-
+vector
+-
+cstring
+-
+cstdlib
+-
+cstdint
+-
+optional
+-
+set
+-
+

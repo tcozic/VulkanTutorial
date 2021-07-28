@@ -1,0 +1,15 @@
+# Hashes of file build rules.
+2828db686bda5840e0ca3df9457e7b4e shaders
+16524105fce572966e51109d7012bb7b shaders/09_shader_base.frag.spv
+f6ee8c7ac8cf1d14f728f5020e07abcb shaders/09_shader_base.vert.spv
+d67735ff85e49132fe3cd916e502c7b9 shaders/17_shader_vertexbuffer.frag.spv
+d2d927663d5745a80b480e48d1a20f63 shaders/17_shader_vertexbuffer.vert.spv
+4732a775ad636ca566458e760918ce45 shaders/21_shader_ubo.frag.spv
+2a6d5d083e021bff47c08c8e465fcda1 shaders/21_shader_ubo.vert.spv
+2a028e9542c90783720b430c3de6eb44 shaders/25_shader_textures.frag.spv
+8d76bd20643168e89d2ac072f791dbf7 shaders/25_shader_textures.vert.spv
+c397f2edaaea2fa9137c90bc117fe568 shaders/26_shader_depth.frag.spv
+25dbdc8d9c3dc7d9761b7b056caf28b7 shaders/26_shader_depth.vert.spv
+3f58c18d486b6ccc477c7e6c7c44c2a8 shaders/CMakeFiles/make_dir
+3f58c18d486b6ccc477c7e6c7c44c2a8 shaders/CMakeFiles/shaders
+98d38ff8c6545f26a4463d689014dfc6 tinyobjloader/CMakeFiles/uninstall

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tc/workspace/VulkanTutorial/code/17_vertex_input.cpp
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+iostream
+-
+fstream
+-
+stdexcept
+-
+algorithm
+-
+vector
+-
+cstring
+-
+cstdlib
+-
+cstdint
+-
+array
+-
+optional
+-
+set
+-
+

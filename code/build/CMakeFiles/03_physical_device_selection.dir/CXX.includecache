@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tc/workspace/VulkanTutorial/code/03_physical_device_selection.cpp
+GLFW/glfw3.h
+-
+iostream
+-
+stdexcept
+-
+vector
+-
+cstring
+-
+cstdlib
+-
+optional
+-
+
